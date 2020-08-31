@@ -50,6 +50,7 @@ public class PlayerController : MonoBehaviour
     private void Move() {
       // Read the movement value
       float movementInput = playerControls.Player.Movement.ReadValue<float>();
+      // float jumpInput = playerControls.Player.Movement.Rea
 
       // Move the player
       Vector3 currentPosition = transform.position;
