@@ -2,14 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
-!/[Ll]ibrary/*.asset
+/2D Game Trail 01/[Ll]ibrary/
+/2D Game Trail 01/[Tt]emp/
+/2D Game Trail 01/[Oo]bj/
+/2D Game Trail 01/[Bb]uild/
+/2D Game Trail 01/[Bb]uilds/
+/2D Game Trail 01/[Ll]ogs/
+/2D Game Trail 01/[Mm]emoryCaptures/
+!/2D Game Trail 01/[Ll]ibrary/*.asset
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 ![Aa]ssets/**/*.meta
